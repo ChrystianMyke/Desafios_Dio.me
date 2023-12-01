@@ -1,4 +1,4 @@
-#Desafio 1
+<h1 align="center"> Desafio 1 </h1>
 O microblog Twitter é conhecido por limitar as postagens em 140 caracteres. Conferir se um texto vai caber em um tuíte é sua tarefa.
 Entrada:
 A entrada é uma linha de texto T (1 ≤ |T| ≤ 500).
@@ -9,7 +9,7 @@ Exemplos:
 Exemplo de Entrada	Exemplo de Saída
 RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars pic.twitter.com/C9U5NOtGap	TWEET
 
-#Desafio 2
+<h1 align="center"> Desafio 2 </h1>
 Leia um valor inteiro entre 1 e 12, inclusive. Correspondente a este valor, deve ser apresentado como resposta o mês do ano por extenso, em inglês, com a primeira letra maiúscula.
 
 Entrada
@@ -22,7 +22,7 @@ Exemplos
 Exemplo de Entrada	Exemplo de Saída
 4	April
 
-#Desafio 3
+<h1 align="center">Desafio 3</h1>
 Paulinho tem em suas mãos um novo problema. Agora a sua professora lhe pediu que construísse um programa para verificar, à partir de dois valores muito grandes A e B, se B corresponde aos últimos dígitos de A.
 
 Entrada:
